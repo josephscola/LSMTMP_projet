@@ -20,7 +20,9 @@ des non-spécialistes (adressez-vous à l’élève de première que vous
 étiez). Enfin, l’exercice doit impérativement contenir une **application
 numérique**.
 
-. Un projet non reçu ne peut pas être présenté et vaut 0/20.
+```{Attention}
+Un projet non reçu ne peut pas être présenté et vaut 0/20.
+```
 
 Afin de respecter ce délai final, des échéances intermédiaires sont
 imposées pour les différentes tâches du projet. L’avancement est

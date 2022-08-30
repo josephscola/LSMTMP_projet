@@ -6,9 +6,12 @@ référent·e à soutenir. Les présentations orales se tiennent durant les
 deux dernières semaines du semestre. La totalité de l’équipe participe à
 la correction de leur exercice au tableau. La contribution des trois
 membres doit s’articuler de manière fluide afin que le temps imparti (10
-min) soit *impérativement respecté* et *également réparti* (une pénalité
-sera automatiquement attribué à ceux et celles qui monopoliseraient la
-parole). Si la résolution du problème est longue, la présentation au
+min) soit *impérativement respecté* et *également réparti* 
+
+```{Attention}
+Une pénalité sera automatiquement attribuée à ceux et celles qui excéderaient leur temps de parole.
+```
+Si la résolution du problème est longue, la présentation au
 tableau peut éventuellement être réduite à une partie choisie; le
 complément écrit doit alors être distribué en classe.
 
