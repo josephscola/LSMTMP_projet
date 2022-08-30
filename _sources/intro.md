@@ -1,4 +1,4 @@
-**Projet semestriel**
+**Projet semestriel de la méthodologie pour la Physique (L1)**
 
 Le projet consiste à traiter une question de Physique en apportant non
 seulement une réponse correcte, mais également toutes les justifications
