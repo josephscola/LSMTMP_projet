@@ -25,7 +25,7 @@ source ne peut être prise en compte.*
 Le premier document à rendre est une **fiche de lecture** qui rassemble
 les notes de lecture : il est structuré par les différentes sources
 documentaires (informations issues de la source 1, informations issues
-de la source 2, *etc.*
+de la source 2, *etc.*)
 
 Toutes les différentes notions de Physique nécessaires pour traiter le
 sujet doivent être présentes dans la **partie théorique** du projet. Les
