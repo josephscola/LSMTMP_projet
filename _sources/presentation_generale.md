@@ -1,13 +1,10 @@
-# Présentation générale
+**Déroulement du projet semestriel**
 
-
-## Objectif du projet
 L’objectif du projet est la mise en œuvre des différents aspects du
 travail personnel à l’université : mise en application des connaissances
 antérieures, exploitation des ressources de la bibliothèque, échange
 avec les enseignants, travail en groupe, gestion du temps de travail.
 
-## Travail demandé
 Le travail demandé est la production d’un dossier original expliquant un
 phénomène Physique particulier par la mise en application de notions du
 programme de L1. Tout projet ayant reçu l’autorisation de l’enseignant·e
@@ -25,7 +22,6 @@ les ressources bibliographiques de l’Université. Il s’agit d’offrir une
 occasion de mettre en application les enseignements de licence, dès la
 première année.
 
-## Déroulement du projet
 Le travail s’exécute par équipes de **3 étudiant·es exactement
 appartenant au même groupe de TP**. Les équipes sont imposées et
 constituées par ordre alphabétique : dans la liste d’émargement des TP,
@@ -37,12 +33,12 @@ un sujet original, sous réserve de l’accord de l’équipe pédagogique.
 Tous les projets se décomposent en une série de tâches précises, notées
 chaque semaine à distance par un enseignant.
 
-```{Important}
+#### Remarque importante [remarque-importante]
+
 Toutes les informations contenues dans les projets sont, de fait,
 accessibles dans des ouvrages papier ou des ressources en ligne :
 l’évaluation du travail portera donc principalement sur la capacité des
 candidat·es à expliquer les phénomènes et convaincre par leur
 argumentation de l’exactitude de leur réponse. À ce titre, la séance de
 questions est aussi importante que la présentation.
-```
 

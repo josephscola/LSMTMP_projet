@@ -9,7 +9,7 @@ membres doit s’articuler de manière fluide afin que le temps imparti (10
 min) soit *impérativement respecté* et *également réparti*.
 
 ```{Attention}
-Une pénalité sera automatiquement attribuée à ceux et celles qui excéderaient leur temps de parole.
+Tout dépassement du temps de parole individuel entraînera une pénalité de point.
 ```
 Si la résolution du problème est longue, la présentation au
 tableau peut éventuellement être réduite à une partie choisie; le
