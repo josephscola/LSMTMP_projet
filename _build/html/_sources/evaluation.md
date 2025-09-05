@@ -17,3 +17,12 @@ moins approfondis. La difficulté des sujets et le degré
 d’approfondissement sont pris en compte dans l’évaluation du travail
 fourni.
 
+```{Attention}
+Toute absence injustifiée à une séance de suivi interdit le passage à l'oral du membre de l'équipe concerné.
+```
+
+
+```{Attention}
+Les projets incomplets ou rendus en retard ne seront pas présentés à l'oral.
+```
+
