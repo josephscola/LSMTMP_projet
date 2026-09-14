@@ -6,12 +6,12 @@ suivants:
 |                                                                                                |       |
 |:-----------------------------------------------------------------------------------------------|:------|
 | Écrit                                                                                          |       |
-| **partie théorique**                                                                           | 5 pts |
-| **l’argumentation** : rigueur de la démonstration, décomposition du problème en sous-questions | 4 pts |
-| **fiche de lecture et bibliographie**                                                          | 2 pts |
-| Oral                                                                                           |       |
-| Rigueur et clarté de la **démonstration** au tableau                                           | 3 pts |
-| Rigueur et clarté des **réponses aux questions**                                               | 2 pts |
-| **Respect des échéances**                                                                      |       |
-| Chaque échéance respectée rapporte des points indépendamment du contenu                        | 4 pts |
+| **fiche de lecture et bibliographie**      | 3 pts |
+| **synthèse de cours**      | 4 pts |
+| **Contrôle surveillé** | 5 pts |
+| Oral         |       |
+| Rigueur et clarté de la **présentation** au tableau    | 3 pts |
+| Rigueur et clarté des **réponses aux questions**        | 3 pts |
+| **Respect des échéances**                |       |
+| Chaque échéance respectée rapporte des points indépendamment du contenu                        | 2 pts |
 
