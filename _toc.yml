@@ -4,17 +4,13 @@
 format: jb-book
 root: intro
 chapters:
-- file: presentation_generale
-- file: contenu
+- file: presentation_générale
 - file: documentation
-- file: exercice
 - file: longueur
 - file: format
-- file: expert
 - file: oral
 - file: roles
 - file: evaluation
 - file: bareme
-- file: calendrier2025-2026
-- file: 2025-2026_equipes 
-- file: liste_sujets_2025
+- file: calendrier2026-2027
+- file: sujets_2026-2027 

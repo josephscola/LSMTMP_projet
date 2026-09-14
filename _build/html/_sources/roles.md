@@ -1,11 +1,9 @@
-#### Répartition des rôles
+# Répartition des rôles
 
-Le travail est réalisé en équipe, chaque membre participant à part
-égale. Il est fortement déconseillé aux membres d’une équipe de
-travailler systématiquement seuls. La contribution de chaque membre
-d’une équipe sera évaluée au cours de la séance de questions-réponses et
-de co-évaluation.
+Chaque projet est réalisé par une équipe de 8 ou 9 personnes.
+Les membres d'une équipe doivent se constituer en trois sous-groupes : 
+1. un sous-groupe se documentant dans des **ouvrages papiers** de la bibliothèque universitaire uniquement,
+2. un sous-groupe se documentant dans des **ressources en ligne** uniquement,
+3. un sous-groupe se documentant à partir d'agents d'**intelligence artificielle uniquement**.
 
-**Le projet est un travail d’équipe. La note de projet
-est individuelle**.
-
+Les fiches de lecture de chaque sous-groupe sont rendues et évaluées séparément.

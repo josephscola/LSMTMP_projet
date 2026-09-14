@@ -1,4 +1,4 @@
-#### Format du projet
+# Format de fichiers accepté
 
 ```{Attention}
 Tous les documents doivent être envoyés au format pdf. 
